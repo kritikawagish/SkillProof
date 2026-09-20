@@ -1,0 +1,11 @@
+{
+  "name": "SkillProof",
+  "description": "Proof of work for people whose careers don't live on LinkedIn. AI-observed competency evidence from real work demonstrations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
